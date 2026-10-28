@@ -13,8 +13,8 @@ binding = "ASSETS"
 # D1 数据库绑定
 [[d1_databases]]
 binding = "DB"
-database_name = "worker_moontv"
-database_id = "252012a5-e193-483e-80e4-6a759eb01278"
+database_name = "moontvplus"
+database_id = "bc54a916-5642-4449-9036-3a72a976fa94"
 
 # 观影室的 Durable Object。
 # 单个 hub DO 装下所有房间：客户端是先建连、后 emit room:create/join，
